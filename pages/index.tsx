@@ -1,7 +1,7 @@
 import { memo } from 'react';
-import { Container } from '../src/containers';
+import { Drinks } from '../src/containers';
 
-const Page = memo(() => <Container />);
+const Page = memo(() => <Drinks />);
 Page.displayName = nameof(Page);
 
 export default Page;
