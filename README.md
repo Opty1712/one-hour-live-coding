@@ -19,4 +19,5 @@
 4. List the drinks added to the separated state and add a button to remove them from there.
 
 ## Demo
-https://one-hour-live-coding.vercel.app/
+→→→→→→→→→→ 🔥 **<a href="https://one-hour-live-coding.vercel.app/" target="_blank">Demo</a>** 🔥 ←←←←←←←←←←
+
