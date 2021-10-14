@@ -17,3 +17,6 @@
 > To do this, you need to pass the user input as the "s" query string
 3. Show the drinks in a list and add a button to save the drink in a separate state.
 4. List the drinks added to the separated state and add a button to remove them from there.
+
+## Demo
+https://one-hour-live-coding.vercel.app/
